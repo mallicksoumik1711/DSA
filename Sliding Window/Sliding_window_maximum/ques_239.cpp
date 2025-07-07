@@ -33,7 +33,6 @@ int main(){
     vector<int> nums = {1,3,-1,-3,5,3,6,7};
     int k = 3;
     vector<int> ans = maxNumber(nums, k);
-    // return ans
     for(int i=0; i<ans.size(); i++){
         cout << ans[i] << " ";
     }
