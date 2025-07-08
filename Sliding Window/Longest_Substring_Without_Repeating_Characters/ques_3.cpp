@@ -22,7 +22,7 @@ int longestSubstr(string &s){
             r += 1;
         }
     }
-    return maxi==INT_MIN ? 0 : maxi;
+    return maxi==INT_MIN ? 0 : maxi; //necessary for tc when there will be no  string available
 }
 
 int main(){
