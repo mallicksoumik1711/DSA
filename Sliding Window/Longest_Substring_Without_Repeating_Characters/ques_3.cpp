@@ -26,7 +26,7 @@ int longestSubstr(string &s){
 }
 
 int main(){
-    string s = "abcabcbb";
+    string s = "pwwkew"; //here input different inputs
     int ans = longestSubstr(s);
     cout << ans;
     return 0;
