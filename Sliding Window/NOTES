@@ -1,0 +1,4 @@
+when in doubt whether which pointer to move, i.e. if there is a condition where you want to get the subarrays in the middle but going right ends the right pointer
+and moving left pointer leaves some subarrays behind, that time you use the concept of 
+
+exact(k) = atMost(k) - atMost(k-1)
