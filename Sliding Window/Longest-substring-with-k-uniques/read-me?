@@ -1,0 +1,4 @@
+Given here at most k uniques in the map.
+Question states that there must be exactly k uniques in the map else return -1
+
+Irrespective if there are atleast k uniques in the map you can return the answer
