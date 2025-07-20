@@ -1,0 +1,9 @@
+the pattern is 
+binary subarray could be solved with prefix sum and hashmap
+but with sliding window most of the question with 
+
+"Subarrays with k - maximum/minimum/longest/least"
+
+problems are solved
+
+pattern is -> Exact(k) = Subarray (<=k) - subarray (<k)
