@@ -10,3 +10,4 @@ pattern is -> Exact(k) = Subarray (<=k) - subarray (<k)
 
 most of the problems are solved via this method. Idk what is it called though
 1. Binary subarray with 
+2. Count number of nice subarrays
