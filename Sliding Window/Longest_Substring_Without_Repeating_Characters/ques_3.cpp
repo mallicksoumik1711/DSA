@@ -3,6 +3,31 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+int lengthOfLongestSubstring(string s) {
+        unordered_map<char, int> mpp;
+        int maxi = -1;
+        int l=0, r=0;
+        if(s.size() == 0){
+            return 0;
+        }
+        while(r < s.size()){
+            mpp[s[r]] += 1;
+            if(r-l+1 == mpp.size()){
+                maxi = max(maxi, r-l+1);
+                r += 1;
+            }
+            else{
+                mpp[s[l]] -= 1;
+                if(mpp[s[l]] == 0){
+                    mpp.erase(s[l]);
+                }
+                l += 1;
+                r += 1;
+            }
+        }
+        return maxi;
+    }
+
 int longestSubstr(string &s){
     int maxi = INT_MIN;
     unordered_map<char, int> mpp;
