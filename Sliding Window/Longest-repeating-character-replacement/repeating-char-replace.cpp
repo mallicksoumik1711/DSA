@@ -10,7 +10,7 @@ int longestRepeatingChar(string &s, int k){
     int l=0, r=0;
     while(r < s.size()){
         mpp[s[r]] += 1;
-        maxfreq = max(maxfreq, mpp[s[r]]);
+        maxfreq = max(maxfreq, mpp[s[r]]); 
         if(r-l+1 - maxfreq <= k){
             maxi = max(maxi, r-l+1);
         }
