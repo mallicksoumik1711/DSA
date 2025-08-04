@@ -31,7 +31,7 @@ int countSubarrays(vector<int> &nums, int k){
         return 0;
     }
     // if k = 0 then k-1 = -1 thus to keep this safe.
-
+    
     while(r < nums.size()){
         if(nums[r]%2 != 0){
             oddNum += 1;
