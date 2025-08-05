@@ -8,7 +8,7 @@ int longestSubstring(string s, int k){
     unordered_map<char, int> mpp;
     int l=0, r=0;
 
-    while(r < s.size()){
+    while(r < s.size()){     
         mpp[s[r]] += 1;
         while(mpp.size() > k){
             mpp[s[l]] -= 1;
