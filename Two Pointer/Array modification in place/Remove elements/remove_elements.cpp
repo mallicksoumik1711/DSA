@@ -1,0 +1,55 @@
+// https://leetcode.com/problems/remove-element/description/?envType=problem-list-v2&envId=two-pointers
+
+#include<bits/stdc++.h>
+using namespace std;
+
+/*
+Example 1:
+
+Input: nums = [3,2,2,3], val = 3
+Output: 2, nums = [2,2,_,_]
+Explanation: Your function should return k = 2, with the first two elements of nums being 2.
+It does not matter what you leave beyond the returned k (hence they are underscores).
+
+Example 2:
+
+Input: nums = [0,1,2,2,3,0,4,2], val = 2
+Output: 5, nums = [0,1,4,0,3,_,_,_]
+Explanation: Your function should return k = 5, with the first five elements of nums containing 0, 0, 1, 3, and 4.
+Note that the five elements can be returned in any order.
+It does not matter what you leave beyond the returned k (hence they are underscores).
+*/
+int remove_elements(vector<int> &nums, int val){
+    int i=0, j=nums.size()-1;
+    while(i <= j){
+        if(nums[i] == val && nums[j] != val){
+            int temp = nums[i];
+            nums[i] = nums[j];
+            nums[j] = temp;
+            i += 1;
+            j -= 1;
+        }
+        if(nums[i] == val && nums[j] == val){
+            j -= 1;
+        }
+        if(nums[i] != val && nums[j] != val){
+            i += 1;
+        }
+        if(nums[i] != val && nums[j] == val){
+            i += 1;
+            j -= 1;
+        }
+    }
+    return i;
+}
+
+int main(){
+    vector<int> nums = {0,1,2,2,3,0,4,2};
+    int val = 2;
+    int ans = remove_elements(nums, val);
+    for(int i=0; i<ans; i++){
+        cout << nums[i] << " ";
+    }
+    cout << endl;
+    cout << ans;
+}
