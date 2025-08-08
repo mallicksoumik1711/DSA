@@ -13,7 +13,7 @@ int maxConsecutive(vector<int> &nums, int k){
             zeros += 1;
         }
         while(zeros > k){
-            if(nums[l] == 0){
+            if(nums[l] == 0){      
                 zeros -= 1;
             }
             l += 1;
