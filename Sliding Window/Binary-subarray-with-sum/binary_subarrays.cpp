@@ -8,7 +8,7 @@ using namespace std;
 /** CONDITION - 
  * To find exact number of subarrays we've to opt a solution.
  * given when doubt which pointer to move (left, right) opt this method.
- 
+         
  * Exact (k) = [subarrays <= (k)] - [subarrays < (k)]
 **/
 
