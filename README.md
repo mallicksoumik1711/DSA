@@ -8,6 +8,7 @@
 <p><a href="https://www.geeksforgeeks.org/problems/count-occurences-of-anagrams5839/1">Count occurance of anagrams</a></p>
 <p><a href="https://leetcode.com/problems/count-number-of-nice-subarrays/description/">Count nice subarrays</a></p>
 <p><a href="https://leetcode.com/problems/fruit-into-baskets/description/">Fruit into baskets</a></p>
+<p><a href="https://leetcode.com/problems/longest-repeating-character-replacement/description/">Longest repeating character replacement</a></p>
 
 <h2>Twp Pointers</h2>
 <p><a href="https://leetcode.com/problems/find-the-duplicate-number/description/?envType=problem-list-v2&envId=two-pointers">Find the Duplicate numbers</a></p>
