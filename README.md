@@ -11,6 +11,7 @@
 <p><a href="https://leetcode.com/problems/longest-repeating-character-replacement/description/">Longest repeating character replacement</a></p>
 <p><a href="https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1">Longest substring with k uniques</a></p>
 <p><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/description/">Longest substring without repeating characters</a></p>
+<p><a href="https://leetcode.com/problems/max-consecutive-ones-iii/">Maximum consecutive ones 3</a></p>
 
 <h2>Twp Pointers</h2>
 <p><a href="https://leetcode.com/problems/find-the-duplicate-number/description/?envType=problem-list-v2&envId=two-pointers">Find the Duplicate numbers</a></p>
