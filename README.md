@@ -9,6 +9,7 @@
 <p><a href="https://leetcode.com/problems/count-number-of-nice-subarrays/description/">Count nice subarrays</a></p>
 <p><a href="https://leetcode.com/problems/fruit-into-baskets/description/">Fruit into baskets</a></p>
 <p><a href="https://leetcode.com/problems/longest-repeating-character-replacement/description/">Longest repeating character replacement</a></p>
+<p><a href="https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1">Longest substring with k uniques</a></p>
 
 <h2>Twp Pointers</h2>
 <p><a href="https://leetcode.com/problems/find-the-duplicate-number/description/?envType=problem-list-v2&envId=two-pointers">Find the Duplicate numbers</a></p>
