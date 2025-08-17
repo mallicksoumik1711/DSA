@@ -13,6 +13,7 @@
 <p><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/description/">Longest substring without repeating characters</a></p>
 <p><a href="https://leetcode.com/problems/max-consecutive-ones-iii/">Maximum consecutive ones 3</a></p>
 <p><a href="https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/">Maximum points from cards</a></p>
+<p><a href="https://leetcode.com/problems/maximum-erasure-value/description/">Maximum Erasure value</a></p>
 
 <h2>Twp Pointers</h2>
 <p><a href="https://leetcode.com/problems/find-the-duplicate-number/description/?envType=problem-list-v2&envId=two-pointers">Find the Duplicate numbers</a></p>
