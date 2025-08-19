@@ -17,6 +17,7 @@
 <p><a href="https://leetcode.com/problems/maximum-sum-of-almost-unique-subarray/description/?envType=problem-list-v2&envId=sliding-window">Maximum sum of almost unique subarray</a></p>
 <p><a href="https://leetcode.com/problems/minimum-size-subarray-sum/description/?envType=problem-list-v2&envId=sliding-window">Minimun size subarray sum</a></p>
 <p><a href="https://leetcode.com/problems/minimum-window-substring/description/?envType=problem-list-v2&envId=sliding-window">Minimun window substring</a></p>
+<p><a href="https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/">Number of substring containing all three characters</a></p>
 
 <h2>Twp Pointers</h2>
 <p><a href="https://leetcode.com/problems/find-the-duplicate-number/description/?envType=problem-list-v2&envId=two-pointers">Find the Duplicate numbers</a></p>
