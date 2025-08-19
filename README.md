@@ -19,6 +19,7 @@
 <p><a href="https://leetcode.com/problems/minimum-window-substring/description/?envType=problem-list-v2&envId=sliding-window">Minimun window substring</a></p>
 <p><a href="https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/">Number of substring containing all three characters</a></p>
 <p><a href="https://leetcode.com/problems/sliding-window-maximum/description">Sliding window maximum</a></p>
+<p><a href="https://leetcode.com/problems/subarrays-with-k-different-integers/description/?envType=problem-list-v2&envId=sliding-window">Subsrray with k different integers</a></p>
 
 <h2>Twp Pointers</h2>
 <p><a href="https://leetcode.com/problems/find-the-duplicate-number/description/?envType=problem-list-v2&envId=two-pointers">Find the Duplicate numbers</a></p>
