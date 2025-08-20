@@ -21,6 +21,6 @@
 <p><a href="https://leetcode.com/problems/sliding-window-maximum/description">Sliding window maximum</a></p>
 <p><a href="https://leetcode.com/problems/subarrays-with-k-different-integers/description/?envType=problem-list-v2&envId=sliding-window">Subsrray with k different integers</a></p>
 
-<h2>Twp Pointers</h2>
+<h2>Two Pointers</h2>
 <p><a href="https://leetcode.com/problems/find-the-duplicate-number/description/?envType=problem-list-v2&envId=two-pointers">Find the Duplicate numbers</a></p>
 <p><a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=problem-list-v2&envId=two-pointers">Find the index of the first occurance in the string</a></p>
