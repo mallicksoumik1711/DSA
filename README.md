@@ -25,3 +25,4 @@
 <p><a href="https://leetcode.com/problems/find-the-duplicate-number/description/?envType=problem-list-v2&envId=two-pointers">Find the Duplicate numbers</a></p>
 <p><a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=problem-list-v2&envId=two-pointers">Find the index of the first occurance in the string</a></p>
 <p><a href="https://leetcode.com/problems/reverse-vowels-of-a-string/">Reverse vowels of a string</a></p>
+<p><a href="https://leetcode.com/problems/string-compression/description/?envType=problem-list-v2&envId=two-pointers">String compression</a></p>
