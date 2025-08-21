@@ -24,3 +24,10 @@
 <h2>Two Pointers</h2>
 <p><a href="https://leetcode.com/problems/find-the-duplicate-number/description/?envType=problem-list-v2&envId=two-pointers">Find the Duplicate numbers</a></p>
 <p><a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=problem-list-v2&envId=two-pointers">Find the index of the first occurance in the string</a></p>
+<p><a href="https://leetcode.com/problems/reverse-vowels-of-a-string/">Reverse vowels of a string</a></p>
+<p><a href="https://leetcode.com/problems/string-compression/description/?envType=problem-list-v2&envId=two-pointers">String compression</a></p>
+<p><a href="https://leetcode.com/problems/sort-colors/description/">Sort 0, 1 and 2</a></p>
+<h3>## Array modification in place</h3>
+<p><a href="https://leetcode.com/problems/move-zeroes/description/">Move zeros</a></p>
+<p><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=problem-list-v2&envId=two-pointers">Remove duplicates from sorted array</a></p>
+<p><a href="https://leetcode.com/problems/remove-element/description/?envType=problem-list-v2&envId=two-pointers">Remove elements</a></p>
