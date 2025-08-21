@@ -29,3 +29,5 @@
 <p><a href="https://leetcode.com/problems/sort-colors/description/">Sort 0, 1 and 2</a></p>
 <h3>## Array modification in place</h3>
 <p><a href="https://leetcode.com/problems/move-zeroes/description/">Move zeros</a></p>
+<p><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=problem-list-v2&envId=two-pointers">Remove duplicates from sorted array</a></p>
+<p><a href="https://leetcode.com/problems/remove-element/description/?envType=problem-list-v2&envId=two-pointers">Remove elements</a></p>
