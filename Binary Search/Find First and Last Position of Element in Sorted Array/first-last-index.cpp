@@ -17,7 +17,7 @@ Input: nums = [], target = 0
 Output: [-1,-1]
 */
 
-int leftIndex(vector<int> &nums, int target){
+int leftIndex(vector<int> &nums, int target){ 
     int l=0, h=nums.size()-1;
     int first = -1;
     while(l <= h){
