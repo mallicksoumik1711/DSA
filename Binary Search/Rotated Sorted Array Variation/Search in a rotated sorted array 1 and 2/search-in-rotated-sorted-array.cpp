@@ -1,7 +1,7 @@
 // https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1732174495/
 #include<bits/stdc++.h>
 using namespace std;
-
+    
 /*
 Example 1:
 Input: nums = [4,5,6,7,0,1,2], target = 0
