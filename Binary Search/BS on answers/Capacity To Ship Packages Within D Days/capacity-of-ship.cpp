@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/
-
+     
 #include<bits/stdc++.h>
 using namespace std;
 
