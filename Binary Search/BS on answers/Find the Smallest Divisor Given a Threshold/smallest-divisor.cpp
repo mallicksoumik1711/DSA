@@ -5,7 +5,7 @@ using namespace std;
 
 /*
 Example 1:
-
+    
 Input: nums = [1,2,5,9], threshold = 6
 Output: 5
 Explanation: We can get a sum to 17 (1+2+5+9) if the divisor is 1. 
