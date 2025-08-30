@@ -5,7 +5,7 @@ using namespace std;
 
 /*
 Input: n = 3, m = 27
-Output: 3
+Output: 3 
 Explanation: 33 = 27
 Input: n = 3, m = 9
 Output: -1
