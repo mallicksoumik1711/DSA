@@ -5,7 +5,7 @@ using namespace std;
 
 /*
 
-Example 1:
+Example 1:     
 
 Input: nums = [1,1,2]
 Output: 2, nums = [1,2,_]
