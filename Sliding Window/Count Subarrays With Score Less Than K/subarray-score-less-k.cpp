@@ -6,7 +6,7 @@ using namespace std;
 /*
 Example 1:
 
-Input: nums = [2,1,4,3,5], k = 10
+Input: nums = [2,1,4,3,5], k = 10 
 Output: 6
 Explanation:
 The 6 subarrays having scores less than 10 are:
