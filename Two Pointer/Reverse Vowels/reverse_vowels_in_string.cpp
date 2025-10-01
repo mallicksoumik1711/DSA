@@ -10,7 +10,7 @@ Input: s = "IceCreAm"
 
 Output: "AceCreIm"
 
-Explanation:
+Explanation:                           
 
 The vowels in s are ['I', 'e', 'e', 'A']. On reversing the vowels, s becomes "AceCreIm".
 
