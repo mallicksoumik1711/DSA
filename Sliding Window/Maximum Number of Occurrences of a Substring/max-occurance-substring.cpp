@@ -15,7 +15,7 @@ Example 2:
 
 Input: s = "aaaa", maxLetters = 1, minSize = 3, maxSize = 3
 Output: 2
-Explanation: Substring "aaa" occur 2 times in the string. It can overlap.
+Explanation: Substring "aaa" occur 2 times in the string. It can overlap.                          
 */
 
 int maxOccuranceOfSubstring(string &s, int n, int k, int m){
