@@ -12,7 +12,7 @@ Explanation: The minimum window substring "BANC" includes 'A', 'B', and 'C' from
 Example 2:
 
 Input: s = "a", t = "a"
-Output: "a"
+Output: "a"               
 Explanation: The entire string s is the minimum window.
 Example 3:
 
