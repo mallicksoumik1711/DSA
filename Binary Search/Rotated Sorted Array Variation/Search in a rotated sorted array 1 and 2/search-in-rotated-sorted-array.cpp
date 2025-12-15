@@ -5,7 +5,7 @@ using namespace std;
 /*
 Example 1:
 Input: nums = [4,5,6,7,0,1,2], target = 0
-Output: 4
+Output: 4        
 
 Example 2:
 Input: nums = [4,5,6,7,0,1,2], target = 3
