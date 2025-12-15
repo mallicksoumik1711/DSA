@@ -17,7 +17,7 @@ Explanation: 54 = 625
 
 int helperFunction(int mid, int n, int m){  // 0 if mid == m
     int prod = 1;                           // 1 if mid < m
-    while(n){                               // 2 if mid > m
+    while(n){                               // 2 if mid > m local code identification
         prod *= mid;
         if(prod > m){
             return 2;
