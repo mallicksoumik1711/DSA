@@ -28,8 +28,7 @@ int countSubarrays(vector<int> &nums, int n){
                 mpp.erase(nums[l]);
             }
             l += 1;
-            // if mpp[nums[i] is > 0
-            // then also this mught work
+            
         }
         count += r-l+1;
         r += 1;
