@@ -46,3 +46,5 @@ both are nearly same.
 
 tc of fruitBasket - O(2N) not n*n
 tc of optimal = o(N)
+
+nearly it won't traverse that much for n*n
