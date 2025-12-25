@@ -39,6 +39,7 @@ void returnStoredIndex(vector<int> &arr, int k, vector<int> nums){
             //return expected result
             sum += nums[i]*arr[i];
         }
+        //no else block for now
     }
 }
 
