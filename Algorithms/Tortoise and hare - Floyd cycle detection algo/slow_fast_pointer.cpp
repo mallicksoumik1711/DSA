@@ -33,6 +33,11 @@ int duplicateNumber_Array_modification(vector<int> &nums){
 
 void returnStoredIndex(vector<int> &arr, int k){
     //return stored indexes
+    for(int i=0; i<arr.size(); i++){
+        if(arr[i] && arr[i]>nums[i]){
+            //return expected result
+        }
+    }
 }
 
 int tortoise_and_hare_cycle_detection_algo(vector<int>& nums){
