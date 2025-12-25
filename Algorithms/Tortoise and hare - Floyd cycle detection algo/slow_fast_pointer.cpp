@@ -31,6 +31,10 @@ int duplicateNumber_Array_modification(vector<int> &nums){
     return 0;
 }
 
+vector<int> returnStoredIndex(vector<int> &arr, int k){
+    //return stored indexes
+}
+
 int tortoise_and_hare_cycle_detection_algo(vector<int>& nums){
     int slow = nums[0];
     int fast = nums[0];
