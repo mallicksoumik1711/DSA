@@ -31,7 +31,7 @@ int duplicateNumber_Array_modification(vector<int> &nums){
     return 0;
 }
 
-vector<int> returnStoredIndex(vector<int> &arr, int k){
+void returnStoredIndex(vector<int> &arr, int k){
     //return stored indexes
 }
 
