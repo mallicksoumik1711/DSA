@@ -44,6 +44,7 @@ void sortArray(vector<int>& nums){
 
 int main(){
     vector<int> nums = {2,0,2,1,1,0};
+    //vector<int> nums = {-1,-2,-5,-3,-6,6,4,5,9}
     sortArray(nums);
     for(int i=0; i<nums.size(); i++){
         cout << nums[i] << " ";
