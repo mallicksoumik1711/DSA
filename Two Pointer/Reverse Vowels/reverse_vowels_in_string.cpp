@@ -57,6 +57,7 @@ void reverseVowels(string &s){
 
 int main(){
     string s = "race a car";
+    // string s = "              ";
     reverseVowels(s);
     cout << s;
     return 0;
