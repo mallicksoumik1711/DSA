@@ -1,0 +1,3 @@
+https://www.blog.codeinmotion.io/p/leetcode-patterns
+
+https://seanprashad.com/leetcode-patterns/
