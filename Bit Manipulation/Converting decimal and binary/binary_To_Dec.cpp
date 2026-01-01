@@ -16,7 +16,7 @@ int binaryToDecimal(int num){
 }
 
 int main(){
-    int num = 110;
+    int num = 110; // not checked for entire test cases. probably work for all the testcase
     int decimal = binaryToDecimal(num);
     cout << "Decimal of " << num << " is: " << decimal << endl;
     return 0;
