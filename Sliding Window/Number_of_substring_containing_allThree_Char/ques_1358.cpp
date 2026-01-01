@@ -10,7 +10,7 @@ int allThreeChar(string &s){
     while(r < s.size()){
         mpp[s[r]] += 1;
         while(mpp.size() == 3){
-            maxi += s.size()-r;
+            maxi += s.size()-r;    
             mpp[s[l]] -= 1;
             if(mpp[s[l]] == 0){
                 mpp.erase(s[l]);
@@ -45,4 +45,5 @@ int main(){
     int ans = allThreeChar(s);
     cout << ans;
     return 0;
+
 }

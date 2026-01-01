@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/
-
+     
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -11,7 +11,7 @@ Output: 15
 Explanation: A ship capacity of 15 is the minimum to ship all the packages in 5 days like this:
 1st day: 1, 2, 3, 4, 5
 2nd day: 6, 7
-3rd day: 8
+3rd day: 8                
 4th day: 9
 5th day: 10
 

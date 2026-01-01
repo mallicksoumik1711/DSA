@@ -8,7 +8,7 @@ using namespace std;
 Example 1:
 
 Input: word1 = "bcca", word2 = "abc"
-
+      
 Output: 1
 
 Explanation:

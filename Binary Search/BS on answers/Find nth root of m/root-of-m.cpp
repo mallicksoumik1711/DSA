@@ -5,19 +5,19 @@ using namespace std;
 
 /*
 Input: n = 3, m = 27
-Output: 3
-Explanation: 33 = 27
+Output: 3 
+Explanation: 3^3 = 27
 Input: n = 3, m = 9
 Output: -1
 Explanation: 3rd root of 9 is not integer.
 Input: n = 4, m = 625
 Output: 5
-Explanation: 54 = 625
+Explanation: 5^4 = 625
 */
 
 int helperFunction(int mid, int n, int m){  // 0 if mid == m
     int prod = 1;                           // 1 if mid < m
-    while(n){                               // 2 if mid > m
+    while(n){                               // 2 if mid > m local code identification
         prod *= mid;
         if(prod > m){
             return 2;

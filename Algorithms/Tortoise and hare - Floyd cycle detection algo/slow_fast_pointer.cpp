@@ -8,7 +8,7 @@ Example 1:
 
 Input: nums = [1,3,4,2,2]
 Output: 2
-Example 2:
+Example 2:                                   
 
 Input: nums = [3,1,3,4,2]
 Output: 3
@@ -29,6 +29,18 @@ int duplicateNumber_Array_modification(vector<int> &nums){
         }
     }
     return 0;
+}
+
+void returnStoredIndex(vector<int> &arr, int k, vector<int> nums){
+    //return stored indexes
+    int sum = 0;
+    for(int i=0; i<arr.size(); i++){
+        if(arr[i] && arr[i]>nums[i]){
+            //return expected result
+            sum += nums[i]*arr[i];
+        }
+        //no else block for now
+    }
 }
 
 int tortoise_and_hare_cycle_detection_algo(vector<int>& nums){

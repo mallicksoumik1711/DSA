@@ -6,7 +6,7 @@ using namespace std;
 /*
 Example 1:
 
-Input: nums = [1,3,1,2,2]
+Input: nums = [1,3,1,2,2]      
 Output: 4
 Explanation: The complete subarrays are the following: [1,3,1,2], [1,3,1,2,2], [3,1,2] and [3,1,2,2].
 Example 2:
@@ -28,6 +28,7 @@ int countSubarrays(vector<int> &nums, int n){
                 mpp.erase(nums[l]);
             }
             l += 1;
+            
         }
         count += r-l+1;
         r += 1;

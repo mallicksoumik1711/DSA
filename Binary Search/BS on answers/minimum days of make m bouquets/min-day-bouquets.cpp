@@ -6,7 +6,7 @@ using namespace std;
 /*
 Example 1:
 
-Input: bloomDay = [1,10,3,10,2], m = 3, k = 1
+Input: bloomDay = [1,10,3,10,2], m = 3, k = 1     
 Output: 3
 Explanation: Let us see what happened in the first three days. x means flower bloomed and _ means flower did not bloom in the garden.
 We need 3 bouquets each should contain 1 flower.

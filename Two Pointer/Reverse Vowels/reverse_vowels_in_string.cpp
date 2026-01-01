@@ -10,7 +10,7 @@ Input: s = "IceCreAm"
 
 Output: "AceCreIm"
 
-Explanation:
+Explanation:                           
 
 The vowels in s are ['I', 'e', 'e', 'A']. On reversing the vowels, s becomes "AceCreIm".
 
@@ -20,6 +20,8 @@ Input: s = "leetcode"
 
 Output: "leotcede"
 */
+
+//used two pointers, we can also use hash maps
 
 bool isVowel(char ch){
         if(ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u'||ch=='A'||ch=='E'||ch=='I'||ch=='O'||ch=='U'){
@@ -55,6 +57,7 @@ void reverseVowels(string &s){
 
 int main(){
     string s = "race a car";
+    // string s = "              ";
     reverseVowels(s);
     cout << s;
     return 0;

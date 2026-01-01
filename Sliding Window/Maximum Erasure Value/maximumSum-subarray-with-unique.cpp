@@ -7,7 +7,7 @@ using namespace std;
 Example 1:
 Input: nums = [4,2,4,5,6]
 Output: 17
-Explanation: The optimal subarray here is [2,4,5,6].
+Explanation: The optimal subarray here is [2,4,5,6].   
 
 Example 2:
 Input: nums = [5,2,1,2,5,2,1,2,5]

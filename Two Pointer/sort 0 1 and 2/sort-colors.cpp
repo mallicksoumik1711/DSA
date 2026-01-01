@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/sort-colors/description/
 
-/* DUTCH NATIONAL FLAG ALGO
+/* DUTCH NATIONAL FLAG ALGORITHM
 Input: nums = [2,0,2,1,1,0]
 Output: [0,0,1,1,2,2]
 
@@ -44,6 +44,7 @@ void sortArray(vector<int>& nums){
 
 int main(){
     vector<int> nums = {2,0,2,1,1,0};
+    //vector<int> nums = {-1,-2,-5,-3,-6,6,4,5,9}
     sortArray(nums);
     for(int i=0; i<nums.size(); i++){
         cout << nums[i] << " ";
