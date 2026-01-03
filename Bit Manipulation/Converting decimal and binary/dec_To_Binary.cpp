@@ -2,6 +2,7 @@
 using namespace std;
 
 string decimalToBinary(int num){
+    // not checked for negative testcases like when num itself is 0
     string res = "";
     while(num != 1){
         int r = num%2;

@@ -29,8 +29,7 @@ int binaryToDecimal_stringInput(string s){
 }
 
 int main(){
-    int num = 1101;
-    string s = "1101";
+    int num = 110;
     int decimal = binaryToDecimal(num);
     int decimalFromString = binaryToDecimal_stringInput(s);
     // cout << "Decimal of " << num << " is: " << decimal << endl;
