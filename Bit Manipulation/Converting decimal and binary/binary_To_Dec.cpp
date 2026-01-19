@@ -5,7 +5,7 @@ using namespace std;
 int binaryToDecimal(int num){
     int count = 0;
     int ans = 0;
-    while(num != 1){
+    while(num != 1){    
         int rem = num % 10;
         ans += rem * pow(2, count);
         count += 1;
@@ -20,7 +20,7 @@ int binaryToDecimal_stringInput(string s){
     int res = 0;
     int count = 0;
     while(count < s.size()){
-        int num = s[i] - '0';
+        int num = s[i] - '0'; //converting to num
         res += num * pow(2, count);
         count += 1;
         i -= 1;
