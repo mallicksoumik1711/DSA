@@ -7,7 +7,7 @@ int binaryToDecimal(int num){
     int ans = 0;
     while(num != 1){    
         int rem = num % 10;
-        ans += rem * pow(2, count);
+        ans += rem * pow(2, count); //can create a diff func for this?
         count += 1;
         num /= 10;
     }
